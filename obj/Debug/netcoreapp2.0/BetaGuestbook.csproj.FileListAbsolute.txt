@@ -1,0 +1,12 @@
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\bin\Debug\netcoreapp2.0\BetaGuestbook.deps.json
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\bin\Debug\netcoreapp2.0\BetaGuestbook.runtimeconfig.json
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\bin\Debug\netcoreapp2.0\BetaGuestbook.runtimeconfig.dev.json
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\bin\Debug\netcoreapp2.0\BetaGuestbook.dll
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\bin\Debug\netcoreapp2.0\BetaGuestbook.pdb
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\obj\Debug\netcoreapp2.0\BetaGuestbook.csprojResolveAssemblyReference.cache
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\obj\Debug\netcoreapp2.0\BetaGuestbook.csproj.CoreCompileInputs.cache
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\obj\Debug\netcoreapp2.0\BetaGuestbook.AssemblyInfoInputs.cache
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\obj\Debug\netcoreapp2.0\BetaGuestbook.AssemblyInfo.cs
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\obj\Debug\netcoreapp2.0\BetaGuestbook.dll
+C:\Users\michi\source\repos\BetaGuestbook\BetaGuestbook\obj\Debug\netcoreapp2.0\BetaGuestbook.pdb
